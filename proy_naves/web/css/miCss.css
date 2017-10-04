@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30-sep-2017, 23:22:06
+    Author     : Ricardo Cutimbo
+*/
+
+.miBoton{
+    text-align:center;
+    width: auto;
+    height: 25px;
+    text-align: center;
+    border-radius: 40px;
+}
+.miInput{ 
+    text-align:center;
+    width: 150px;
+    border-radius: 40px;
+}
+.miBoton:active{
+    background-color: brown;
+}
+.miPanel{
+    border-radius: 40px;
+    background-color: linen;
+    width: 250px;
+    height: 210px;
+}
